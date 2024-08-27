@@ -67,6 +67,3 @@ This project uses mixed precision training to optimize performance on compatible
 - Experimenting with different model architectures
 - Implementing data augmentation techniques
 
-## License
-
-[Include your chosen license here]
